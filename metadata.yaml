@@ -1,0 +1,30 @@
+_repo: The-Amours-of-Zeokinizul-King-of-the-KofiransTranslated-from-the-Arabic-of-the-famous-Travell__18472
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crébillon, Claude Prosper Jolyot de
+    alias: Crebillon, Claude Prosper Jolyot de
+    birthdate: 1707
+    deathdate: 1777
+    gutenberg_agent_id: '8051'
+    url: http://www.gutenberg.org/2009/agents/8051
+    wikipedia: http://en.wikipedia.org/wiki/Claude_Prosper_Jolyot_de_Cr%C3%A9billon
+description: ''
+gutenberg_issued: '2006-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Louis XV, King of France, 1710-1774'
+- !lcc 'PQ'
+title: 'The Amours of Zeokinizul, King of the Kofirans
+
+  Translated from the Arabic of the famous Traveller Krinelbol'
+url: http://www.gutenberg.org/ebooks/18472
