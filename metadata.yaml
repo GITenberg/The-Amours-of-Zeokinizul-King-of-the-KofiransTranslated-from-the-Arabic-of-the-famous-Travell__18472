@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8051
     wikipedia: http://en.wikipedia.org/wiki/Claude_Prosper_Jolyot_de_Cr%C3%A9billon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18472#The-Amours-of-Zeokinizul-King-of-the-KofiransTranslated-from-the-Arabic-of-the-famous-Travell_
 gutenberg_issued: '2006-05-30'
 gutenberg_type: Text
 identifiers:
